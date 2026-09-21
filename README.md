@@ -29,8 +29,8 @@ Test at approximately:
 - Desktop: 1024px and wider
 
 ## Links
-GitHub repository: https://github.com/24704227elmi-maker/Discover_PNG_A2
-Published website: https://24704227elmi-maker.github.io/Discover_PNG_A2/
+GitHub repository: https://github.com/24704227elmi-maker/Discover_PNG_A3
+Published website: https://24704227elmi-maker.github.io/Discover_PNG_A3/
 
 ## AI Use Declaration
 Generative AI was used to help explain CSS Grid, Flexbox and responsive design and to suggest improvements. The student reviewed, modified and tested the final work.
