@@ -53,13 +53,18 @@
 
             <h2>Featured Destinations</h2>
 
+            <div class="destination-filters">
+                <button type="button" class="filter-btn active" data-filter="all">All</button>
+                <button type="button" class="filter-btn" data-filter="nature">Nature</button>
+                <button type="button" class="filter-btn" data-filter="culture">Culture</button>
+                <button type="button" class="filter-btn" data-filter="cities">Cities</button>
+            </div>
             <div class="card-grid">
 
-                <article class="card destination">
-
-                    <h3>Port Moresby</h3>
+                    <article class="card destination" data-category="cities">
 
                     <figure>
+
                         <img src="assets/port-moresby.png"
                              alt="Illustration representing Port Moresby with a city skyline and coastline">
 
@@ -82,9 +87,9 @@
 
                 </article>
 
-                <article class="card destination">
 
-                    <h3>Kokoda</h3>
+
+                    <article class="card destination" data-category="nature">
 
                     <figure>
                         <img src="assets/kokoda.png"
@@ -108,9 +113,7 @@
 
                 </article>
 
-                <article class="card destination">
-
-                    <h3>Milne Bay</h3>
+                                   <article class="card destination" data-category="nature">
 
                     <figure>
                         <img src="assets/beach.png"
@@ -223,6 +226,8 @@
 
     </div>
 </footer>
+
+<script src="script.js"></script>
 
 </body>
 </html>
