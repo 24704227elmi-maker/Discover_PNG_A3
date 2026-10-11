@@ -1,7 +1,5 @@
-# Assessment 3 Responsive Testing Evidence
-
-This file records the responsive, functional and accessibility testing completed for the published GitHub Pages website.
-
+# Assessment 4 Testing Evidence — Discover PNG
+This file records the functional, responsive, browser, validation and accessibility testing for the Discover PNG website submitted for ISO229 Assessment 4.
 ## Viewport tests
 
 | Test | Viewport | Expected result | Result | Screenshot evidence |
